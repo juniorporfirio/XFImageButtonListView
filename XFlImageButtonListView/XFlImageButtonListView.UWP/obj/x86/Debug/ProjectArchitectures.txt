@@ -1,0 +1,2 @@
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\XFlImageButtonListView.UWP.csproj;x86
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.csproj;neutral

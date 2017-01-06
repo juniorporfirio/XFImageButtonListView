@@ -1,0 +1,46 @@
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.dll
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.pdb
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.MainPage.xaml.g.cs
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.App.xaml.g.cs
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.dll
+c:\users\claudemir.porfirio\documents\visual studio 2015\Projects\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.pdb
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.dll
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.pdb
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.MainPage.xaml.g.cs
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.App.xaml.g.cs
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.dll
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.pdb
+C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.csprojResolveAssemblyReference.cache
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.dll
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.pdb
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.csprojResolveAssemblyReference.cache
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.MainPage.xaml.g.cs
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.App.xaml.g.cs
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.dll
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.pdb
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.dll.mdb
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.dll.mdb
