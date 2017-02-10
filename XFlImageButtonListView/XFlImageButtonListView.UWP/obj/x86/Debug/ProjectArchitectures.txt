@@ -1,2 +1,2 @@
-C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\XFlImageButtonListView.UWP.csproj;x86
-C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.csproj;neutral
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\XFlImageButtonListView.UWP.csproj;x86
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.csproj;neutral

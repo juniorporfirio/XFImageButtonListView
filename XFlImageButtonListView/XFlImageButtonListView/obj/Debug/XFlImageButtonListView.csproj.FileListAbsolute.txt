@@ -37,10 +37,8 @@ C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageB
 C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.csprojResolveAssemblyReference.cache
 C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.MainPage.xaml.g.cs
 C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.View.App.xaml.g.cs
 C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.dll
 C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.pdb
-C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.dll.mdb
-C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.dll.mdb
+C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\obj\Debug\XFlImageButtonListView.csprojResolveAssemblyReference.cache

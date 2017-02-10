@@ -10,19 +10,19 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>0a735c4f-15b7-4c21-90cf-cd0cad06da1e</PackageIdentityName>
     <PackageIdentityPublisher>CN=claudemir.porfirio</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\XFlImageButtonListView.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\XFlImageButtonListView.UWP.exe">
       <PackagePath>entrypoint\XFlImageButtonListView.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\claudemir.porfirio\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -346,40 +346,40 @@
     <AppxPackagedFile Include="C:\Users\claudemir.porfirio\.nuget\packages\Xamarin.Forms\2.0.0.6482\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.dll">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView\bin\Debug\XFlImageButtonListView.dll">
       <PackagePath>XFlImageButtonListView.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\XFlImageButtonListView.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\XFlImageButtonListView.UWP.xr.xml">
       <PackagePath>XFlImageButtonListView.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
@@ -391,11 +391,11 @@
     <AppxPackagedFile Include="C:\Users\claudemir.porfirio\.nuget\packages\Xamarin.Forms\2.0.0.6482\lib\uap10.0\Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Xamarin\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\Core\XFlImageButtonListView.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\claudemir.porfirio\Source\Repos\GitHub\XFlImageButtonListView\XFlImageButtonListView\XFlImageButtonListView.UWP\bin\x86\Debug\Core\XFlImageButtonListView.UWP.exe">
       <PackagePath>XFlImageButtonListView.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
